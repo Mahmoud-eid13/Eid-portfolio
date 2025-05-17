@@ -57,8 +57,11 @@ export const About = () => {
                   (2019-2024)
                 </li>
                 <li>
-                  Relevant Coursework: Data Structures, Web Development, Cloud
-                  Computing...
+                  Web Development Certifications
+                  <br />
+                  Udemy: React & JavaScript Mastery
+                  <br />
+                  FreeCodeCamp: Responsive Web Design & JavaScript Algorithms
                 </li>
               </ul>
             </div>
@@ -67,23 +70,36 @@ export const About = () => {
               <div className="space-y-4 text-gray-300">
                 <div>
                   <h4 className="font-semibold">
-                    {" "}
-                    Software Engineer at ABC Corp (2020 - Present){" "}
+                    Jumpware Software House — Frontend Developer
+                    <br />
+                    Remote | Jun 2024 – Present
                   </h4>
                   <p>
-                    Developed and maintained microservices for cloud-based
-                    applications.
+                    Built the Fit Finder website and admin dashboard using React
+                    and Next.js from the ground up.
+                    <br />
+                    Developed responsive, high-performance components aligned
+                    with user experience goals.
+                    <br />
+                    Collaborated with UI/UX designers and backend engineers to
+                    deliver seamless product functionality.
                   </p>
                 </div>
-
                 <div>
                   <h4 className="font-semibold">
-                    {" "}
-                    Intern at DEF Startups (2019){" "}
+                    Etisalat UAE — SME Specialist
+                    <br />
+                    Onsite | Apr 2021 – May 2023
                   </h4>
                   <p>
-                    Assisted in building front-end components and integration
-                    REST APIs
+                    Monitored floor operations and managed agent distribution
+                    across queues and service lines.
+                    <br />
+                    Reported daily performance metrics and KPIs to management
+                    with accuracy and timeliness.
+                    <br />
+                    Played a key role in maintaining service levels and
+                    supporting data-driven decisions.
                   </p>
                 </div>
               </div>
